@@ -9,6 +9,8 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" integrity="sha384-PDle/QlgIONtM1aqA2Qemk5gPOE7wFq8+Em+G/hmo5Iq0CCmYZLv3fVRDJ4MMwEA" crossorigin="anonymous">
 <body>
 <nav class="shift navbar navbar-expand-md navbar-dark bg-dark fixed-top" id="mainNav">
@@ -146,8 +148,76 @@
 </section>
 <hr>
 <section id="faq">
-    <div class="row">
+    <div class="container hover">
+        <h1>FAQ</h1>
+        <br>
+        <br>
+        <div class="row">
+            <div class="col-lg-4">
+                <button class="button question" data-toggle="collapse" data-target="#one"><span><i class="far fa-lightbulb"></i>
 
+ WHAT IS A HACKATHON?</span></button>
+                <div id="one" class="container collapse">
+                    <div class="conatiner col-lg-10 container-fluid rounded border border-secondary">
+                        <p class="answer">Hackathon is a coding marathon, an event lasting from few hours to few days.</p>
+                    </div>
+
+                </div>
+                </button>
+            </div>
+            <div class="col-lg-4">
+                <button class="button question" data-toggle="collapse" data-target="#two"><span><i class="far fa-lightbulb"></i> WHAT DO I BRING?</span></button>
+                <div id="two" class="container collapse">
+                    <div class="col-lg-10 container-fluid rounded border border-secondary">
+                        <p class="answer">This is a very hands-on and grassroots event. Bring your laptops, mobile phones, Kinects, Oculus Rifts, Leap Motions, wearable computing devices, to whatever inspires you but above all, your energy and your brain! Don’t worry if you forget something, there will be tons of stuff to do. </p>
+                    </div>
+
+                </div>
+                </button>
+            </div>
+            <div class="col-lg-4">
+                <button class="button question" data-toggle="collapse" data-target="#three"><span><i class="far fa-lightbulb"></i> WHO OWNS MY PROJECT & IP?</span></button>
+                <div id="three" class="container collapse">
+                    <div class="col-lg-10 container-fluid rounded border border-secondary">
+                        <p class="answer">The team that develops the project is the owner of the project and IP. We do encourage sharing of code with others in the community or making code open source but it is not required to participate in the event.  </p>
+                    </div>
+
+                </div>
+                </button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4">
+                <button class="button question" data-toggle="collapse" data-target="#four"><span><i class="far fa-lightbulb"></i> WHAT CAN I EXPECT TO GET?</span></button>
+                <div id="four" class="container collapse">
+                    <div class="conatiner col-lg-10 container-fluid rounded border border-secondary">
+                        <p class="answer">The tasks given can generally take shape in the form of websites, mobile apps, and robots, depending on the field of the company sponsoring the event.</p>
+                    </div>
+
+                </div>
+                </button>
+            </div>
+            <div class="col-lg-4">
+                <button class="button question" data-toggle="collapse" data-target="#five"><span><i class="far fa-lightbulb"></i> WHO CAN ATTEND?</span></button>
+                <div id="five" class="container collapse">
+                    <div class="col-lg-10 container-fluid rounded border border-secondary">
+                        <p class="answer">The EOS Global Hackathon series is open to anyone 18 years or older who is interested in working on creating fun, cutting edge dApps on the EOSIO blockchain. </p>
+                    </div>
+
+                </div>
+                </button>
+            </div>
+            <div class="col-lg-4">
+                <button class="button question" data-toggle="collapse" data-target="#six"><span><i class="far fa-lightbulb"></i> IS THERE WIFI?</span></button>
+                <div id="six" class="container collapse">
+                    <div class="col-lg-10 container-fluid rounded border border-secondary">
+                        <p class="answer">Of course.</p>
+                    </div>
+
+                </div>
+                </button>
+            </div>
+        </div>
     </div>
 </section>
 <hr>
@@ -234,8 +304,6 @@
         </div>
     </div>
 </section>
-
-
 
 
 <script>
