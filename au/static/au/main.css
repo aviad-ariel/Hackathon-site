@@ -247,3 +247,14 @@ table-hover {
 .container-fluid{
     background-color: #e1e1e1;
 }
+
+
+.sponser {
+    width: 80%;
+
+  opacity: 0.5;
+}
+
+.sponser:hover {
+   opacity: 1;
+}
