@@ -2,91 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34111354-dc9b-42be-9897-690d2311a2d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/hack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hack.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/CHANGE LOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/compiled/flipclock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/countdown-from-new-years-without-seconds.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/countdown-from-new-years.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/countdown-start-callback.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/countdown-stop-callback.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/countdown-to-new-years-without-seconds.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/countdown-to-new-years.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/daily-counter-countdown.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/daily-counter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/hourly-counter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/interval-callback.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/load-new-clock-face.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/localization.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/minute-counter-overflow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/minute-counter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/multiple-instances.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/simple-countdown-autostart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/simple-counter-autostart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/simple-counter-minimum-digits.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/simple-counter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/twelve-hour-clock-custom-time.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/twelve-hour-clock-without-seconds.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/twelve-hour-clock.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/twenty-four-hour-clock-custom-time.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/twenty-four-hour-clock-without-seconds.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/examples/twenty-four-hour-clock.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/css/flipclock.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/css/flipclock.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/faces/counter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/faces/dailycounter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/faces/hourlycounter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/faces/minutecounter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/faces/twelvehourclock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/faces/twentyfourhourclock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/ar-ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/cs-cz.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/cz-cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/da-dk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/de-de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/en-us.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/es-es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/fa-ir.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/fi-fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/fr-ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/hu-hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/it-it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/ja-jp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/ko-kr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/lv-lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/nl-be.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/no-nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/pl-pl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/pt-br.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/ro-ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/ru-ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/sk-sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/sv-se.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/th-th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/tr-tr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/zh-cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/lang/zh-tw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/libs/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/libs/face.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/libs/factory.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/libs/list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/libs/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/libs/time.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/libs/timer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/FlipClock-master/src/flipclock/js/vendor/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/countDown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/logos/ibm-logo-black-transparent.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/au/static/au/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/au/static/au/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/countdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/icons8-plus-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/CONTRIBUTORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/README.textile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/gen.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/img/digits.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/img/digits2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/img/digits2_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/img/digits2_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/img/digits2_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/img/digits2_purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/img/digits2_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/img/digits2_yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/img/digits_inverted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/img/digits_transparent.no-transitions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/img/digits_transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/js/jquery.countdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/js/jquery.countdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/js/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery-countdown-master/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery.countdown.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/au/static/au/jquery.countdown.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,15 +65,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="974" />
-          <entry key="html" value="3645" />
+          <entry key="css" value="975" />
+          <entry key="html" value="3648" />
           <entry key="py" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="974" />
-          <entry key="HTML" value="3645" />
+          <entry key="CSS" value="975" />
+          <entry key="HTML" value="3648" />
           <entry key="Python" value="91" />
         </counts>
       </usages-collector>
@@ -143,8 +82,9 @@
           <entry key="css" value="5" />
           <entry key="html" value="1" />
           <entry key="js" value="5" />
+          <entry key="json" value="1" />
           <entry key="png" value="1" />
-          <entry key="py" value="7" />
+          <entry key="py" value="8" />
           <entry key="rnc" value="1" />
         </counts>
       </usages-collector>
@@ -153,8 +93,9 @@
           <entry key="CSS" value="5" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
+          <entry key="JSON" value="1" />
           <entry key="JavaScript" value="5" />
-          <entry key="Python" value="7" />
+          <entry key="Python" value="8" />
           <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
@@ -165,12 +106,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="60" column="60" lean-forward="true" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
+            <state relative-caret-position="315">
+              <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#legand#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#legand#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
@@ -208,11 +150,25 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/au/static/au/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="289" column="18" selection-start-line="289" selection-start-column="18" selection-end-line="289" selection-end-column="18" />
+            <state relative-caret-position="368">
+              <caret line="294" column="16" selection-start-line="294" selection-start-column="16" selection-end-line="294" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -290,8 +246,8 @@
         <option value="$PROJECT_DIR$/au/models.py" />
         <option value="$PROJECT_DIR$/au/static/au/esay.js" />
         <option value="$PROJECT_DIR$/au/static/au/countdown.js" />
-        <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/au/static/au/main.css" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
       </list>
     </option>
   </component>
@@ -301,9 +257,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/node_modules/timers.js/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -333,21 +293,7 @@
             </path>
             <path>
               <item name="hack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hack" type="462c0819:PsiDirectoryNode" />
-              <item name="au" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hack" type="462c0819:PsiDirectoryNode" />
-              <item name="au" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="au" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hack" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -427,15 +373,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
+    <frame x="0" y="-1" width="1366" height="741" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24318182" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24318182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32901135" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.32792208" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.32792208" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,7 +390,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007576" side_tool="true" weight="0.32901135" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924242" weight="0.11850649" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924242" visible="true" weight="0.3198052" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -539,14 +485,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/au/static/au/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="294" column="16" selection-start-line="294" selection-start-column="16" selection-end-line="294" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="60" column="60" lean-forward="true" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
+        <state relative-caret-position="315">
+          <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#0;n#legand#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#0;n#legand#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
@@ -583,12 +537,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/au/static/au/main.css">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="289" column="18" selection-start-line="289" selection-start-column="18" selection-end-line="289" selection-end-column="18" />
+        <state relative-caret-position="285">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
