@@ -26,6 +26,7 @@
     <orderEntry type="library" name="ScrollMagic" level="application" />
     <orderEntry type="library" name="debug.addIndicators" level="application" />
     <orderEntry type="library" name="jquery-ui" level="application" />
+    <orderEntry type="library" name="jquery.countdown-he" level="application" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
