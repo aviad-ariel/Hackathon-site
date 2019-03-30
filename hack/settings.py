@@ -55,7 +55,7 @@ ROOT_URLCONF = 'hack.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'hack/templates')]
+        'DIRS': [os.path.join(BASE_DIR, 'hack/../templates')]
         ,
         'APP_DIRS': True,
         'OPTIONS': {
@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'hack.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'hack/db.sqlite3'),
+        'NAME': os.path.join(BASE_DIR, 'hack/../db.sqlite3'),
     }
 }
 
